@@ -69,6 +69,6 @@ Last thing: Remember to delete your CloudFormation stack when you're done to avo
 # POC
 
    ![Screenshot](AWSWebApp.jpeg)
-   ![Screenshot]("Screen Shot 2021-02-27 at 4.34.53 PM.png")
-   ![Screenshot](Screen Shot 2021-02-27 at 4.44.02 PM.png)
-   ![Screenshot](Screen Shot 2021-02-27 at 5.10.58 PM.png)
+   ![Screenshot](1.png)
+   ![Screenshot](2.png)
+   ![Screenshot](3.png)
