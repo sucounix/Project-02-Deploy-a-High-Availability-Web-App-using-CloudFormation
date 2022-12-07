@@ -64,3 +64,11 @@ This needs to be done in an automated fashion so that the infrastructure can be 
 9- If you want to go the extra mile, set up a bastion host (jump box) to allow you to SSH into your private subnet servers. This bastion host would be on a Public Subnet with port 22 open only to your home IP address, and it would need to have the private key that you use to access the other servers.
 
 Last thing: Remember to delete your CloudFormation stack when you're done to avoid recurring charges!
+
+
+# POC
+
+   ![Screenshot](AWSWebApp.jpeg)
+   ![Screenshot](Screen Shot 2021-02-27 at 4.34.53 PM.png)
+   ![Screenshot](Screen Shot 2021-02-27 at 4.44.02 PM.png)
+   ![Screenshot](Screen Shot 2021-02-27 at 5.10.58 PM.png)
